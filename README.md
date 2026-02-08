@@ -1,8 +1,10 @@
-🍽️ Efficient-meal-planning-system-to-reduce-food-wastage
-📌 Overview
+# 🍽️ Efficient-meal-planning-system-to-reduce-food-wastage
+
+# 📌 Overview
+
 The Efficient Meal Planning System (EMPS) is a machine learning–based application designed to reduce food wastage by predicting food demand, managing inventory, and optimizing meal planning. The system helps users make data-driven decisions to minimize surplus food and promote sustainable food consumption.
 
-✨ Key Features
+# ✨ Key Features
 
 🤖 Food Wastage Prediction using Machine Learning
 
@@ -18,8 +20,9 @@ The Efficient Meal Planning System (EMPS) is a machine learning–based applicat
 
 ♻️ Sustainable Food Usage Support
 
-🛠️ Tech Stack
-Languages: Python, HTML, CSS, JavaScript
+#🛠️ Tech Stack
+ 
+ Languages: Python, HTML, CSS, JavaScript
 
 Machine Learning: TensorFlow, Scikit-learn
 
@@ -31,7 +34,8 @@ Database: MySQL / SQLite
 
 Tools: Jupyter Notebook, VS Code / PyCharm
 
-📊 Machine Learning Models
+#📊 Machine Learning Models
+
 Linear Regression (Baseline Model)
 
 Neural Network (Deep Learning Model)
@@ -44,7 +48,8 @@ R-Squared
 
 Training & Validation Loss
 
-🎯 Applications
+#🎯 Applications
+
 Event & Catering Management
 
 Household Meal Planning
@@ -53,8 +58,9 @@ Food Inventory Optimization
 
 Sustainable Food Management
 
-🚀 Future Enhancements
-Advanced Deep Learning Models
+#🚀 Future Enhancements
+ 
+ Advanced Deep Learning Models
 
 Real-time Inventory Tracking
 
